@@ -1,4 +1,4 @@
-# k_nearest_neighbor
+# k nearest neighbor
 k_nearest_neighbor
 
 kNN implementation:
